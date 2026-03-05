@@ -1,0 +1,16 @@
+{
+  "name": "monolit",
+  "version": "1.0.0",
+  "description": "Консольное приложение",
+  "license": "ISC",
+  "author": "Pepshin",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
